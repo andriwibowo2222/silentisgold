@@ -1,6 +1,6 @@
 ### INSTALL SCRIPT 
 ```
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/andriwibowo2222/silentisgold/main/premi.sh && chmod +x premi.sh && ./premi.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://andriwibowo2222.github.io/premi.sh && chmod +x premi.sh && ./premi.sh
 ```
 
 ### PERINTAH UPDATE 
