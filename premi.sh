@@ -4,6 +4,8 @@ apt upgrade -y
 apt update -y
 apt install lolcat -y
 apt install wondershaper -y
+apt curl -y
+apt gpd -y
 Green="\e[92;1m"
 RED="\033[31m"
 YELLOW="\033[33m"
@@ -234,7 +236,7 @@ function first_setup(){
     print_success "Directory Xray"
     if [[ $(cat /etc/os-release | grep -w ID | head -n1 | sed 's/=//g' | sed 's/"//g' | sed 's/ID//g') == "ubuntu" ]]; then
     echo "Setup Dependencies $(cat /etc/os-release | grep -w PRETTY_NAME | head -n1 | sed 's/=//g' | sed 's/"//g' | sed 's/PRETTY_NAME//g')"
-    sudo apt update -y
+    apt update -y
     apt-get install --no-install-recommends software-properties-common
     add-apt-repository ppa:vbernat/haproxy-2.0 -y
     apt-get -y install haproxy=2.0.\*
