@@ -365,6 +365,7 @@ rm -rf /etc/vmess/.vmess.db
     rm -rf /etc/shadowsocks/.shadowsocks.db
     rm -rf /etc/ssh/.ssh.db
     rm -rf /etc/bot/.bot.db
+    mkdir -p /root/email
     mkdir -p /etc/bot
     mkdir -p /etc/xray
     mkdir -p /etc/vmess
