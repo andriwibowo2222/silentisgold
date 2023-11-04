@@ -6,6 +6,8 @@ apt install lolcat -y
 apt install wondershaper -y
 apt curl -y
 apt gpd -y
+sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sysctl -w net.ipv6.conf.default.disable_ipv6=1
 Green="\e[92;1m"
 RED="\033[31m"
 YELLOW="\033[33m"
