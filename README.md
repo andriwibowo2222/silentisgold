@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/Kangsantri123/vip/main/update.sh && chmod
 - [x] XRAY TROJAN WEBSOCKET TLS & NON-TLS 443/80<br>
 - [x] XRAY SHDSCKS WEBSOCKET TLS & NON-TLS 443/80<br>
 
-### FITUR TAMBAHAN
+# FITUR TAMBAHAN :
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
