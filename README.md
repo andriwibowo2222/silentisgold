@@ -30,6 +30,6 @@ wget https://raw.githubusercontent.com/Kangsantri123/vip/main/update.sh && chmod
 - User Details Akun
 
 # PEMBAYARAN UNTUK SEWA :
-  ![BAYAR]([https://github.com/jaka1m/project/raw/main/BAYAR.jpg](https://raw.githubusercontent.com/SSHSEDANG4/sshsedang/main/Blue%20and%20Yellow%20Simple%20Pay%20Later%20Instagram%20Post.png)https://raw.githubusercontent.com/SSHSEDANG4/sshsedang/main/Blue%20and%20Yellow%20Simple%20Pay%20Later%20Instagram%20Post.png)
+  ![BAYAR](https://raw.githubusercontent.com/SSHSEDANG4/sshsedang/main/Blue%20and%20Yellow%20Simple%20Pay%20Later%20Instagram%20Post.png)
 - Dana/Gopay/ShopeePay
 - 082311190332
