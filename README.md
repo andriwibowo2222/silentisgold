@@ -12,7 +12,7 @@ wget https://raw.githubusercontent.com/Kangsantri123/vip/main/update.sh && chmod
 - UBUNTU 20.04.05
 - DEBIAN 10
 
-# Fitur :
+# FITUR UTAMA :
 - [x] SSH WEBSOCKET TLS & NON-TLS 443/80 <br>
 - [x] XRAY VMESS WEBSOCKET TLS & NON-TLS 443/80 <br>
 - [x] XRAY VLESS WEBSOCKET TLS & NON-TLS 443/80<br>
