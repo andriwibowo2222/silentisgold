@@ -993,7 +993,6 @@ clear
 instal
 echo ""
 history -c
-echo "email" > email
 rm -rf /root/*.zip
 rm -rf /root/*.sh
 rm -rf /root/LICENSE
