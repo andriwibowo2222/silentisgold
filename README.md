@@ -8,7 +8,7 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 wget https://raw.githubusercontent.com/Kangsantri123/vip/main/update.sh && chmod +x update.sh && ./update.sh<code>
 ```
 
-### TESTED ON OS 
+#TESTED ON OS 
 - UBUNTU 20.04.05
 - DEBIAN 10
 
