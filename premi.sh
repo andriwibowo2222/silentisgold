@@ -65,6 +65,7 @@ checking_sc() {
     echo -e "      ${GREEN}WhatsApp${NC} wa.me/6287819967732"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     exit
+    rm -rf /root/premi.sh
   fi
 }
 checking_sc
