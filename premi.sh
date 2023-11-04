@@ -258,7 +258,7 @@ else
 fi
 }
 
-# GEO PROJECT
+
 clear
 function nginx_install() {
     # // Checking System
