@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/andriwibowo2222/silentisgold/main/update.
 - Tuning profile pada server
 - Auto block sebagian ads indo by default
 - Auto clear log per 3 menit
-- Auto deler expired
+- Auto delete expired account
 - User Details Akun
 
 # PEMBAYARAN UNTUK SEWA :
