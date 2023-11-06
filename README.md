@@ -23,7 +23,6 @@ wget https://raw.githubusercontent.com/andriwibowo2222/silentisgold/main/update.
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
-- Penambahan fail2ban
 - Auto block sebagian ads indo by default
 - Auto clear log per 3 menit
 - Auto deler expired
